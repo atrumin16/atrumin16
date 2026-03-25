@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Alberto Trujillo 👋
 
-<!--
-**atrumin16/atrumin16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://ui-avatars.com/api/?name=Alberto+Trujillo&background=0047AB&color=fff&rounded=true&bold=true&size=128" align="right" />
 
-Here are some ideas to get you started:
+### Systems & Financial Markets Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🖥️ Passionate about **Systems Engineering** and infrastructure.
+* 📈 Deeply interested in **Financial Markets** and algorithmic analysis.
+* 🔐 Exploring the intersection of technology and finance.
+* 📬 Contact: atrumin16@gmail.com
+
+---
+
+### Areas of Interest
+- **Systems Architecture**: Building robust and scalable solutions.
+- **Financial Technology**: Market data analysis and trading systems.
+- **Continuous Learning**: Always exploring new tech stacks and market trends.
