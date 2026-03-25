@@ -27,9 +27,8 @@
   </tr>
 </table>
 
----
 
-### 📊 Performance Metrics
+### Performance Metrics
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=atrumin16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117">
@@ -47,13 +46,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atrumin16&theme=transparent" width="100%" />
 </p>
 
----
 
-### 🛠️ Core Interests
+### Core Interests
 - **Market Data Systems:** Optimized pipelines for real-time financial feeds.
 - **Distributed Infrastructure:** Designing for 99.99% uptime and scalability.
 - **Automation:** Reducing friction through robust scripting and CI/CD.
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/atrumin16/atrumin16/main/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
