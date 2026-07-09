@@ -8,7 +8,7 @@
       <img src="https://ui-avatars.com/api/?name=AT&background=0047AB&color=fff&rounded=true&bold=true&size=128" width="128" />
     </td>
     <td valign="top" style="padding-left: 20px;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0047AB&width=450&lines=DevOps+%26+Systems+Engineer;Infrastructure+As+Code;Backend+%26+Automation+Dev" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0047AB&width=500&lines=DevOps+%26+Systems+Engineer;Infrastructure+as+Code;Backend+%26+Automation+Dev" alt="Typing SVG" />
       <p>
         ⚡ <b>DevOps & Systems Junior Engineer</b> at <a href="https://github.com/Attestto">Attestto</a>.<br>
         🛠️ <b>Focus:</b> Building secure backend tools, automating cloud infrastructure, and low-latency environments.
@@ -51,16 +51,14 @@
 
 ---
 
-### 📊 Activity & Metrics
+### 📊 Profile Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atrumin16&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Contributions-Active-0047AB?style=flat-square&logo=github" alt="GitHub Contributions" />
+  <img src="https://img.shields.io/badge/Environment-Linux_%26_Cloud-2496ED?style=flat-square" alt="Environment" />
 </p>
 
-<p align="center">
-  <!-- Gráfico nativo alternativo para el historial de contribuciones si las APIs externas fallan -->
-  <img src="https://vhs.readmes.io/api?username=atrumin16&theme=tokyonight&area=true" width="100%" alt="Contribution Graph" />
-</p>
+> *Nota: Tu gráfico de actividad detallado y commits diarios se renderizan de forma nativa por GitHub justo debajo de este archivo README.*
 
 ---
 
