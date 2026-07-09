@@ -17,6 +17,7 @@
     </td>
   </tr>
 </table>
+
 ### 🛠️ Ecosystem & Tech Stack
 <p align="left">
   <!-- Cloud & Hardening -->
@@ -33,6 +34,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
+
 ### 🚀 Featured Technical Projects
 * 🛡️ **AuditChain (Solana Forensics):** Development of blockchain intelligence and data forensics scripts for automated event auditing on Solana.
 * 🤖 **Automation Bots & Integrations:** Custom integration pipelines (GitHub-to-Discord bots, daily automated news scrapers, and cron alerting setups).
@@ -42,6 +44,7 @@
   <img src="https://img.shields.io/badge/Contributions-Active-0047AB?style=flat-square&logo=github" alt="GitHub Contributions" />
   <img src="https://img.shields.io/badge/Environment-Linux_%26_Cloud-2496ED?style=flat-square" alt="Environment" />
 </p>
+
 ### 🧠 Core Engineering Principles
 * **Infrastructure as Code & Automation:** If a task needs to be done more than twice, it deserves a robust script (Bash/Python/PowerShell) or a GitHub Actions workflow.
 * **Security & Identity (IAM):** Prioritizing least-privilege access, secure secrets management, and strict cloud infrastructure hardening.
