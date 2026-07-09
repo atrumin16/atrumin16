@@ -1,4 +1,3 @@
-@@ -1,57 +1,57 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=Alberto%20Trujillo&fontSize=50&fontColor=0047AB&animation=fadeIn">
