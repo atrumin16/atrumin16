@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=120&section=header&text=Alberto%20Trujillo&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
-
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="150" align="center" valign="top">
@@ -18,50 +17,32 @@
     </td>
   </tr>
 </table>
-
----
-
 ### 🛠️ Ecosystem & Tech Stack
-
 <p align="left">
   <!-- Cloud & Hardening -->
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Google_Cloud_IAM-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="IAM" />
   <img src="https://img.shields.io/badge/Fly.io-24185b?style=flat-square&logo=fly.io&logoColor=white" alt="Fly.io" />
   <img src="https://img.shields.io/badge/Proxmox-E57024?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
-  
   <!-- CI/CD & Containers -->
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  
   <!-- Languages & Scripting -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
-
----
-
 ### 🚀 Featured Technical Projects
-
 * 🛡️ **AuditChain (Solana Forensics):** Development of blockchain intelligence and data forensics scripts for automated event auditing on Solana.
 * 🤖 **Automation Bots & Integrations:** Custom integration pipelines (GitHub-to-Discord bots, daily automated news scrapers, and cron alerting setups).
 * 🌐 **Infrastructure Hardening:** Multi-environment configuration deploying apps on Fly.io, utilizing Cloudflare tunnels/WAF, and handling strict IAM policies.
-
----
-
 ### 📊 Profile Activity
-
 <p align="left">
   <img src="https://img.shields.io/badge/Contributions-Active-0047AB?style=flat-square&logo=github" alt="GitHub Contributions" />
   <img src="https://img.shields.io/badge/Environment-Linux_%26_Cloud-2496ED?style=flat-square" alt="Environment" />
 </p>
-
----
-
 ### 🧠 Core Engineering Principles
-
 * **Infrastructure as Code & Automation:** If a task needs to be done more than twice, it deserves a robust script (Bash/Python/PowerShell) or a GitHub Actions workflow.
 * **Security & Identity (IAM):** Prioritizing least-privilege access, secure secrets management, and strict cloud infrastructure hardening.
 * **System Resilience:** Designing containerized, high-availability setups using Docker and virtualization environments like Proxmox.
