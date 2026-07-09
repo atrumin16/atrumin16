@@ -51,15 +51,15 @@
 
 ---
 
-### 📊 Metrics & Activity
+### 📊 Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atrumin16&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrumin16&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atrumin16&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atrumin16&theme=tokyonight&hide_border=true" width="100%" />
+  <!-- Gráfico nativo alternativo para el historial de contribuciones si las APIs externas fallan -->
+  <img src="https://vhs.readmes.io/api?username=atrumin16&theme=tokyonight&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
