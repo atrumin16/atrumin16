@@ -58,8 +58,6 @@
   <img src="https://img.shields.io/badge/Environment-Linux_%26_Cloud-2496ED?style=flat-square" alt="Environment" />
 </p>
 
-> *Nota: Tu gráfico de actividad detallado y commits diarios se renderizan de forma nativa por GitHub justo debajo de este archivo README.*
-
 ---
 
 ### 🧠 Core Engineering Principles
