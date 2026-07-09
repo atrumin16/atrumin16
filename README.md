@@ -9,7 +9,7 @@
     <td valign="top" style="padding-left: 20px;">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0047AB&width=500&lines=DevOps+%26+Systems+Engineer;Infrastructure+as+Code;Backend+%26+Automation+Dev" alt="Typing SVG" />
       <p>
-        ⚡ <b>DevOps & Systems Junior Engineer</b> at <a href="https://github.com/Attestto">Attestto</a>.<br>
+        ⚡ <b>DevOps & Systems Junior Engineer</b> at <a href="https://github.com/Attestto-com">Attestto</a>.<br>
         🛠️ <b>Focus:</b> Building secure backend tools, automating cloud infrastructure, and low-latency environments.
       </p>
       <a href="mailto:atrumin16@gmail.com"><img src="https://img.shields.io/badge/Contact-0047AB?style=flat-square&logo=gmail&logoColor=white" /></a>
