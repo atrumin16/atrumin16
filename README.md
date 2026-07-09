@@ -1,57 +1,83 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=Alberto%20Trujillo&fontSize=50&fontColor=0047AB&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header&text=Alberto%20Trujillo&fontSize=50&fontColor=0047AB&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=120&section=header&text=Alberto%20Trujillo&fontSize=50" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Alberto%20Trujillo&fontSize=60&fontColor=ffffff&animation=twinkle" />
+</p>
+
+<h2 align="center">Systems Engineer | Infrastructure & Security Specialist</h2>
+
+<p align="center">
+  <em>Building secure, automated infrastructure for high-availability systems</em>
 </p>
 
 ---
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="160" align="center" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://ui-avatars.com/api/?name=AT&background=0d1117&color=0047AB&rounded=true&bold=true&size=128&border=2">
-        <source media="(prefers-color-scheme: light)" srcset="https://ui-avatars.com/api/?name=AT&background=f0f6fc&color=0047AB&rounded=true&bold=true&size=128">
-        <img src="https://ui-avatars.com/api/?name=AT&background=0047AB&color=fff&rounded=true&size=128" width="128" />
-      </picture>
-    </td>
-    <td valign="top" style="padding-left: 25px;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0047AB&width=435&lines=Systems+%26+Financial+Markets;Infrastructure+Architecture;Algorithmic+Analysis" alt="Typing SVG" />
-      <p>
-        <b>Tech Explorer:</b> <i>Bridging Systems Engineering & FinTech.</i><br>
-        <b>Core Focus:</b> Low-latency systems and market data structures.<br>
-      </p>
-      <a href="mailto:atrumin16@gmail.com"><img src="https://img.shields.io/badge/Contact-0047AB?style=flat-square&logo=gmail&logoColor=white" /></a>
-      <img src="https://img.shields.io/badge/Status-Building-00C805?style=flat-square" />
-    </td>
-  </tr>
+### 🎯 Focus Areas
+
+<table>
+<tr>
+<td width="50%">
+  <h3>🔧 Systems & Infrastructure</h3>
+  <ul>
+    <li>Linux/Windows Server Administration</li>
+    <li>Network Security & Hardening</li>
+    <li>Active Directory, LDAP, Samba</li>
+    <li>Docker Containerization</li>
+  </ul>
+</td>
+<td width="50%">
+  <h3>⚡ Automation & DevOps</h3>
+  <ul>
+    <li>Cloudflare Workers (Edge Computing)</li>
+    <li>Bash/Python Scripting</li>
+    <li>CI/CD Pipelines</li>
+    <li>Infrastructure as Code (Ansible)</li>
+  </ul>
+</td>
+</tr>
 </table>
 
 ---
 
-### Performance Metrics
+### 🛠️ Tech Stack
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=atrumin16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=atrumin16&show_icons=true&theme=flat&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=atrumin16&show_icons=true" height="150" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=atrumin16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=atrumin16&layout=compact&theme=flat&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrumin16&layout=compact" height="150" />
-  </picture>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atrumin16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C805&icon_color=00C805" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrumin16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C805" height="160" />
+</p>
+
+---
+
+### 🔒 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Solana Forensics](https://solanaforensic.com/)** | Blockchain audit & forensic analysis platform | Python, Web3, Security Analysis |
+| **Discord Infrastructure** | High-security community server with automated onboarding | Cloudflare Workers, Web Crypto API, Discord API |
+| **GitHub → Discord Middleware** | Secure webhook processor with HMAC validation | Cloudflare Workers, JavaScript, Web Crypto API |
+
+---
+
+### 📫 Connect
+
+<p align="center">
+  <a href="mailto:atrumin16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atrumin16&theme=transparent" width="100%" />
+  <img src="https://komarev.com/visits.svg?username=atrumin16" alt="Profile Views" />
 </p>
-
-
-### Core Interests
-- **Market Data Systems:** Optimized pipelines for real-time financial feeds.
-- **Distributed Infrastructure:** Designing for 99.99% uptime and scalability.
-- **Automation:** Reducing friction through robust scripting and CI/CD.
-
