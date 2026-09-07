@@ -8,11 +8,9 @@ Building resilient systems, sub-5ms edge pipelines, and automated endpoint foren
 
 ### Production Systems & Projects
 
-- **[Open-Sentinel](https://github.com/atrumin16/open-sentinel)** — Host telemetry, multi-channel boot alerts (Discord, Telegram, WhatsApp) and remote forensic control console.
-- **[Trujillo AI Studio](https://github.com/atrumin16/trujillo-ai-studio)** — Sub-100ms multimodal inference on Cloudflare Workers and Groq LPU with integrated LexiGuard compliance heuristics.
+- **[Trujillo AI Studio](https://ai.trujillomingorance.com)** — Sub-100ms multimodal inference on Cloudflare Workers and Groq LPU with integrated LexiGuard compliance heuristics.
 - **[ATM Labs Hub](https://labs.trujillomingorance.com)** — Edge gateway, health metrics, and centralized directory for `trujillomingorance.com`.
 - **[Trujillo Guides](https://guides.trujillomingorance.com)** — Zero-cost enterprise email architecture runbook and interactive systems knowledge suite.
-- **[BitPulse](https://atrumin16.github.io/BitPulse/)** — Real-time Bitcoin mempool analytics, fee estimator, and network telemetry terminal.
 - **[FocusGuard](https://focusguard.trujillomingorance.com)** — Private Zero-Trust DNS-over-HTTPS perimeter filtering and parental protection shield.
 
 ### Architecture & Tooling
