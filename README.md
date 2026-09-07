@@ -17,7 +17,39 @@
 
 ## Technical Summary
 
-Systems and DevOps Engineer with extensive focus on edge computing platforms, zero-trust network architectures, serverless backends, and Linux infrastructure automation. Experienced in designing resilient distributed systems, sub-5ms DNS-over-HTTPS security proxies, strict content security policies, automated CI/CD workflows, and containerized virtualization environments.
+Systems and DevOps Engineer specialized in edge serverless computing, zero-trust infrastructure, low-latency networking, and Linux systems hardening. Experienced in architecting sub-5ms DNS-over-HTTPS (DoH) security filtering, designing strict Content-Security-Policy rules, automating CI/CD release pipelines, and maintaining containerized virtualization environments.
+
+---
+
+## Systems Architecture Blueprint
+
+```mermaid
+flowchart TD
+    subgraph Edge["Global Edge Gateway (Cloudflare Anycast Network)"]
+        DoH["DNS-over-HTTPS (DoH)<br/>RFC 8484 Security Resolver"]
+        WAF["Edge WAF & DDoS Shield<br/>Strict Rate Limiting"]
+        Router["Edge Routing Layer<br/>Cloudflare Pages Functions"]
+    end
+
+    subgraph Compute["Edge Compute & Serverless Workers"]
+        Workers["Cloudflare Workers Engine<br/>ES Modules / Modern TypeScript"]
+        ZeroTrust["Zero-Trust Policy Validator<br/>Header Analysis & RFC 7807"]
+    end
+
+    subgraph Persistence["High-Performance Edge State"]
+        D1[("Cloudflare D1 SQL<br/>Serverless Relational DB")]
+        KV[("Workers KV Store<br/>Global Key-Value Cache")]
+        Cache["Edge Cache API<br/>Sub-5ms Static Assets"]
+    end
+
+    DoH --> WAF
+    WAF --> Router
+    Router --> Workers
+    Workers --> ZeroTrust
+    ZeroTrust --> D1
+    ZeroTrust --> KV
+    Router --> Cache
+```
 
 ---
 
