@@ -15,4 +15,4 @@ Public work lives in [ATM Software Labs](https://github.com/ATM-Software-Labs): 
   <img src="https://streak-stats.demolab.com?user=atrumin16&hide_border=true&theme=github-dark" alt="GitHub streak" height="165">
 </a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atrumin16&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atrumin16&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&hide_border=true" alt="Contribution graph" width="100%">
