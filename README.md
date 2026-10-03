@@ -1,14 +1,18 @@
 # Alberto Trujillo Mingorance
 
-Systems administrator and cybersecurity in Barcelona, Spain. Infrastructure, identity and edge.
+Systems technician in Barcelona. Identity and access, Linux and cloud. ASIR.
 
-[Portfolio](https://alberto.trujillomingorance.com) · [Labs](https://labs.trujillomingorance.com) · [Guides](https://guides.trujillomingorance.com) · [Email](mailto:alberto@trujillomingorance.com) · [ATM Software Labs](https://github.com/ATM-Software-Labs)
+[Portfolio](https://alberto.trujillomingorance.com) · [Labs](https://labs.trujillomingorance.com) · [Guides](https://guides.trujillomingorance.com) · [Email](mailto:alberto@trujillomingorance.com)
 
-`Linux` `Cloudflare Workers` `GitHub Actions` `Python` `TypeScript` `DNS-over-HTTPS` `Bash` `PowerShell`
+Public work lives in [ATM Software Labs](https://github.com/ATM-Software-Labs): edge services, DNS filtering, host telemetry and infrastructure runbooks.
+
+`Active Directory` `Microsoft Entra` `Google Workspace` `Cloudflare` `Linux` `Bash` `PowerShell`
 
 <a href="https://github.com/atrumin16">
   <img src="https://github-readme-stats.vercel.app/api?username=atrumin16&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&theme=github_dark" alt="GitHub stats" height="165">
 </a>
 <a href="https://github.com/atrumin16">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrumin16&layout=compact&hide_border=true&langs_count=4&theme=github_dark" alt="Top languages" height="165">
+  <img src="https://streak-stats.demolab.com?user=atrumin16&hide_border=true&theme=github-dark" alt="GitHub streak" height="165">
 </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atrumin16&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" width="100%">
